@@ -1,8 +1,3 @@
-/**
- * 
- */
-/**
- * 
- */
 module PNC {
+	exports deposit;
 }
