@@ -6,7 +6,7 @@ public class saving {
 
 		System.out.println("welcmone to deposit of mohini");
 
-		System.out.println("welcmone to deposit in PNC");
+		System.out.println("pull pull");
 
 
 		System.out.println("savings account");
