@@ -8,8 +8,8 @@ public class saving {
 		System.out.println("savings account");
 
 		System.out.println("savings");
-		System.out.println("clonned");
 
+		System.out.println("clonned");
 
 	}
 
